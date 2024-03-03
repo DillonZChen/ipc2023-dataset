@@ -1,0 +1,104 @@
+{
+    "domains": [
+        {
+            "name": "block-grouping",
+            "numeric": "high",
+            "effects": "simple"
+        },
+        {
+            "name": "counters",
+            "numeric": "high",
+            "effects": "simple"
+        },
+        {
+            "name": "delivery",
+            "numeric": "low",
+            "effects": "simple"
+        },
+        {
+            "name": "drone",
+            "numeric": "high",
+            "effects": "simple"
+        },
+        {
+            "name": "expedition",
+            "numeric": "low",
+            "effects": "simple"
+        },
+        {
+            "name": "ext-plant-watering",
+            "numeric": "high",
+            "effects": "simple"
+        },
+        {
+            "name": "farmland",
+            "numeric": "high",
+            "effects": "simple"
+        },
+        {
+            "name": "fo-counters",
+            "numeric": "high",
+            "effects": "linear"
+        },
+        {
+            "name": "fo-farmland",
+            "numeric": "high",
+            "effects": "linear"
+        },
+        {
+            "name": "fo-sailing",
+            "numeric": "high",
+            "effects": "linear"
+        },
+        {
+            "name": "hydropower",
+            "numeric": "high",
+            "effects": "simple"
+        },
+        {
+            "name": "markettrader",
+            "numeric": "?",
+            "effects": "?"
+        },
+        {
+            "name": "mprime",
+            "numeric": "low",
+            "effects": "simple"
+        },
+        {
+            "name": "pathwaysmetric",
+            "numeric": "low",
+            "effects": "simple"
+        },
+        {
+            "name": "rover",
+            "numeric": "low",
+            "effects": "simple"
+        },
+        {
+            "name": "sailing",
+            "numeric": "high",
+            "effects": "simple"
+        },
+        {
+            "name": "settlersnumeric",
+            "numeric": "?",
+            "effects": "?"
+        },
+        {
+            "name": "sugar",
+            "numeric": "low",
+            "effects": "simple"
+        },
+        {
+            "name": "tpp",
+            "numeric": "low",
+            "effects": "linear"
+        },
+        {
+            "name": "zenotravel",
+            "numeric": "low",
+            "effects": "simple"
+        }
+    ]
+}
